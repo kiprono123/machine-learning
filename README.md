@@ -14,3 +14,4 @@ Dedhia, H. (n.d.). KMeans clustering for customer data. Kaggle. https://www.kagg
 Data is publicly available here:
 
 Choudhary, V. (2021, May 1). Customer segmentation tutorial in Python [Kaggle dataset]. Kaggle. https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python?resource=downloadLinks to an external site.. Retrieved January 23, 2025.
+![image](https://github.com/user-attachments/assets/151597e6-44c6-4803-b465-c0f64dd71dbc)
